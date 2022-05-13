@@ -9,4 +9,6 @@
 - **1300** [1676G. White-Black Balanced Subtrees](./solutions/1676G.cpp)
 - **1400** [1676H1. Maximum Crossings (Easy Version)](./solutions/1676H2.cpp)
 - **1500** [1676H2. Maximum Crossings (Hard Version)](./solutions/1676H2.cpp)
+- **-** [1680A. Minimums and Maximums](./solutions/1680A.cpp)
+- **-** [1680B. Robots](./solutions/1680B.cpp)
 
