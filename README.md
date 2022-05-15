@@ -11,5 +11,6 @@
 - **1500** [1676H2. Maximum Crossings (Hard Version)](./solutions/1676H2.cpp)
 - **900** [1679A. AvtoBus](./solutions/1680A.cpp)
 - **1200** [1679B. Stone Age Problem](./solutions/1680B.cpp)
+- **1400** [1679C. Rooks Defenders](./solutions/1679C.cpp)
 - **-** [1680A. Minimums and Maximums](./solutions/1680A.cpp)
 - **-** [1680B. Robots](./solutions/1680B.cpp)
