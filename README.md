@@ -14,3 +14,4 @@
 - **1400** [1679C. Rooks Defenders](./solutions/1679C.cpp)
 - **800** [1680A. Minimums and Maximums](./solutions/1680A.cpp)
 - **800** [1680B. Robots](./solutions/1680B.cpp)
+- **1600** [1680C. Binary String](./solutions/1680C.cpp)
