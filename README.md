@@ -17,3 +17,4 @@
 - **1600** [1680C. Binary String](./solutions/1680C.cpp)
 - **2000** [1680E. Moving Chips](./solutions/1680E.cpp)
 - **800** [1684A. Digit Minimization](./solutions/1684A.cpp)
+- **800** [1684B. Z mod X = C](./solutions/1684B.cpp)
