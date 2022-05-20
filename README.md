@@ -16,3 +16,4 @@
 - **800** [1680B. Robots](./solutions/1680B.cpp)
 - **1600** [1680C. Binary String](./solutions/1680C.cpp)
 - **2000** [1680E. Moving Chips](./solutions/1680E.cpp)
+- **800** [1684A. Digit Minimization](./solutions/1684A.cpp)
