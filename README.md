@@ -16,6 +16,8 @@
 - **800** [1680B. Robots](./solutions/1680B.cpp)
 - **1600** [1680C. Binary String](./solutions/1680C.cpp)
 - **2000** [1680E. Moving Chips](./solutions/1680E.cpp)
+- **-** [1682A. Palindromic Indices](./solutions/1682A.cpp)
+- **-** [1682B. AND Sorting](./solutions/1682B.cpp)
 - **800** [1684A. Digit Minimization](./solutions/1684A.cpp)
 - **800** [1684B. Z mod X = C](./solutions/1684B.cpp)
 - **1700** [1684D. Traps](./solutions/1684D.cpp)
