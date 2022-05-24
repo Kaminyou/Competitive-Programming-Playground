@@ -17,6 +17,7 @@
 - **1600** [1680C. Binary String](./solutions/1680C.cpp)
 - **2000** [1680E. Moving Chips](./solutions/1680E.cpp)
 - **-** [1681A. Game with Cards](./solutions/1681A.cpp)
+- **-** [1681B. Card Trick](./solutions/1681B.cpp)
 - **-** [1682A. Palindromic Indices](./solutions/1682A.cpp)
 - **-** [1682B. AND Sorting](./solutions/1682B.cpp)
 - **800** [1684A. Digit Minimization](./solutions/1684A.cpp)
