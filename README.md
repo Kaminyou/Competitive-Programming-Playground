@@ -24,3 +24,4 @@
 - **800** [1684A. Digit Minimization](./solutions/1684A.cpp)
 - **800** [1684B. Z mod X = C](./solutions/1684B.cpp)
 - **1700** [1684D. Traps](./solutions/1684D.cpp)
+- **-** [1691A. Beat The Odds](./solutions/1691A.cpp)
