@@ -26,3 +26,4 @@
 - **1700** [1684D. Traps](./solutions/1684D.cpp)
 - **-** [1691A. Beat The Odds](./solutions/1691A.cpp)
 - **-** [1691B. Shoe Shuffling](./solutions/1691B.cpp)
+- **-** [1691C. Sum of Substrings](./solutions/1691C.cpp)
