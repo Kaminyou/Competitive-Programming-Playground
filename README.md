@@ -27,6 +27,7 @@
 - **-** [1687A. The Enchanted Forest](./solutions/1687A.cpp)
 - **-** [1688A. Cirno's Perfect Bitmasks Classroom](./solutions/1688A.cpp)
 - **-** [1688B. Patchouli's Magical Talisman](./solutions/1688B.cpp)
+- **-** [1688C. Manipulating History](./solutions/1688C.cpp)
 - **800** [1691A. Beat The Odds](./solutions/1691A.cpp)
 - **1000** [1691B. Shoe Shuffling](./solutions/1691B.cpp)
 - **1400** [1691C. Sum of Substrings](./solutions/1691C.cpp)
