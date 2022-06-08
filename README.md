@@ -33,6 +33,7 @@
 - **800** [1690C. Restoring the Duration of Tasks](./solutions/1690C.cpp)
 - **1000** [1690D. Black and White Stripe](./solutions/1690D.cpp)
 - **1500** [1690E. Price Maximization](./solutions/1690E.cpp)
+- **1700** [1690F. Shifting String](./solutions/1690F.cpp)
 - **800** [1691A. Beat The Odds](./solutions/1691A.cpp)
 - **1000** [1691B. Shoe Shuffling](./solutions/1691B.cpp)
 - **1400** [1691C. Sum of Substrings](./solutions/1691C.cpp)
