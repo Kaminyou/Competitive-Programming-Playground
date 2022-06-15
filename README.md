@@ -41,5 +41,6 @@
 - **800** [1691A. Beat The Odds](./solutions/1691A.cpp)
 - **1000** [1691B. Shoe Shuffling](./solutions/1691B.cpp)
 - **1400** [1691C. Sum of Substrings](./solutions/1691C.cpp)
-- **-** [1697A. Parkway Walk](./solutions/1697A.cpp)
-- **-** [1697B. Promo](./solutions/1697B.cpp)
+- **800** [1697A. Parkway Walk](./solutions/1697A.cpp)
+- **900** [1697B. Promo](./solutions/1697B.cpp)
+- **1400** [1697C. awoo's Favorite Problem](./solutions/1697C.cpp)
