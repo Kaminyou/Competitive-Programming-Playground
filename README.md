@@ -48,6 +48,7 @@
 - **-** [1692E. Binary Deque](./solutions/1692E.cpp)
 - **-** [1692F. 3SUM](./solutions/1692F.cpp)
 - **-** [1692G. 2^Sort](./solutions/1692G.cpp)
+- **-** [1692H. Gambling](./solutions/1692H.cpp)
 - **800** [1697A. Parkway Walk](./solutions/1697A.cpp)
 - **900** [1697B. Promo](./solutions/1697B.cpp)
 - **1400** [1697C. awoo's Favorite Problem](./solutions/1697C.cpp)
