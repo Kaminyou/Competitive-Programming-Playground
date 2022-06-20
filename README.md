@@ -58,3 +58,6 @@
 - **800** [1697A. Parkway Walk](./solutions/1697A.cpp)
 - **900** [1697B. Promo](./solutions/1697B.cpp)
 - **1400** [1697C. awoo's Favorite Problem](./solutions/1697C.cpp)
+- **800** [1700A. Optimal Path](./solutions/1700A.cpp)
+- **1100** [1700B. Optimal Path](./solutions/1700B.cpp)
+- **170** [1700C. Optimal Path](./solutions/1700C.cpp)
