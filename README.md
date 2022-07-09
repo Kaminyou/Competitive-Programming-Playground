@@ -68,3 +68,4 @@
 - **800** [1700A. Optimal Path](./solutions/1700A.cpp)
 - **1100** [1700B. Optimal Path](./solutions/1700B.cpp)
 - **1700** [1700C. Optimal Path](./solutions/1700C.cpp)
+- **-** [1701A. Grass Field](./solutions/1701A.cpp)
