@@ -70,4 +70,5 @@
 - **1700** [1700C. Optimal Path](./solutions/1700C.cpp)
 - **-** [1701A. Grass Field](./solutions/1701A.cpp)
 - **-** [1701B. Permutation](./solutions/1701B.cpp)
+- **-** [1701C. Schedule Management](./solutions/1701C.cpp)
 
