@@ -69,3 +69,5 @@
 - **1100** [1700B. Optimal Path](./solutions/1700B.cpp)
 - **1700** [1700C. Optimal Path](./solutions/1700C.cpp)
 - **-** [1701A. Grass Field](./solutions/1701A.cpp)
+- **-** [1701B. Permutation](./solutions/1701B.cpp)
+
