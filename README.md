@@ -71,4 +71,7 @@
 - **800** [1701A. Grass Field](./solutions/1701A.cpp)
 - **800** [1701B. Permutation](./solutions/1701B.cpp)
 - **1400** [1701C. Schedule Management](./solutions/1701C.cpp)
-
+- **-** [1705A. Mark the Photographer](./solutions/1705A.cpp)
+- **-** [1705B. Mark the Dust Sweeper](./solutions/1705B.cpp)
+- **-** [1705C. Mark and His Unfinished Essay](./solutions/1705C.cpp)
+- **-** [1705D. Mark and Lightbulbs](./solutions/1705D.cpp)
