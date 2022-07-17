@@ -75,3 +75,6 @@
 - **-** [1705B. Mark the Dust Sweeper](./solutions/1705B.cpp)
 - **-** [1705C. Mark and His Unfinished Essay](./solutions/1705C.cpp)
 - **-** [1705D. Mark and Lightbulbs](./solutions/1705D.cpp)
+- **-** [1707A. Doremy's IQ](./solutions/1707A.cpp)
+- **-** [1708A. Difference Operations](./solutions/1708A.cpp)
+- **-** [1708B. Difference of GCDs](./solutions/1708B.cpp)
