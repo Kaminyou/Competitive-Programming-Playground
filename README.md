@@ -78,3 +78,6 @@
 - **1600** [1707A. Doremy's IQ](./solutions/1707A.cpp)
 - **800** [1708A. Difference Operations](./solutions/1708A.cpp)
 - **1100** [1708B. Difference of GCDs](./solutions/1708B.cpp)
+- **-** [1709A. Three Doors](./solutions/1709A.cpp)
+- **-** [1709B. Also Try Minecraft](./solutions/1709B.cpp)
+- **-** [1709C. Recover an RBS](./solutions/1709C.cpp)
