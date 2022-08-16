@@ -86,3 +86,6 @@
 - **800** [1714C. Minimum Varied Number](./solutions/1714C.cpp)
 - **1600** [1714D. Color with Occurrences](./solutions/1714D.cpp)
 - **1400** [1714E. Add Modulo 10](./solutions/1714E.cpp)
+- **800** [1712A. Wonderful Permutation](./solutions/1712A.cpp)
+- **800** [1712B. Woeful Permutation](./solutions/1712B.cpp)
+- **1100** [1712C. Sort Zero](./solutions/1712C.cpp)
