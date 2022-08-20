@@ -92,3 +92,6 @@
 - **800** [1719A. Chip Game](./solutions/1719A.cpp)
 - **800** [1719B. Mathematical Circus](./solutions/1719B.cpp)
 - **1400** [1719C. Fighting Tournament](./solutions/1719C.cpp)
+- **-** [1720A. Burenka Plays with Fractions](./solutions/1720A.cpp)
+- **-** [1720B. Interesting Sum](./solutions/1720B.cpp)
+- **-** [1720C. Corners](./solutions/1720C.cpp)
