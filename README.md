@@ -89,6 +89,7 @@
 - **800** [1714C. Minimum Varied Number](./solutions/1714C.cpp)
 - **1600** [1714D. Color with Occurrences](./solutions/1714D.cpp)
 - **1400** [1714E. Add Modulo 10](./solutions/1714E.cpp)
+- **800** [1717A. Madoka and Strange Thoughts](./solutions/1717A.cpp)
 - **800** [1719A. Chip Game](./solutions/1719A.cpp)
 - **800** [1719B. Mathematical Circus](./solutions/1719B.cpp)
 - **1400** [1719C. Fighting Tournament](./solutions/1719C.cpp)
