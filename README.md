@@ -96,4 +96,5 @@
 - **900** [1720A. Burenka Plays with Fractions](./solutions/1720A.cpp)
 - **800** [1720B. Interesting Sum](./solutions/1720B.cpp)
 - **1200** [1720C. Corners](./solutions/1720C.cpp)
-- **1500** [G. Even-Odd XOR](./solutions/1722G.cpp)
+- **1200** [1720D1. Xor-Subsequence (easy version)](./solutions/1720D1.cpp)
+- **1500** [1722G. Even-Odd XOR](./solutions/1722G.cpp)
