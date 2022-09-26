@@ -98,3 +98,6 @@
 - **1200** [1720C. Corners](./solutions/1720C.cpp)
 - **1800** [1720D1. Xor-Subsequence (easy version)](./solutions/1720D1.cpp)
 - **1500** [1722G. Even-Odd XOR](./solutions/1722G.cpp)
+- **800** [1730A. Planets](./solutions/1730A.cpp)
+- **1600** [1730B. Meeting on the Line](./solutions/1730B.cpp)
+- **1200** [1730C. Minimum Notation](./solutions/1730C.cpp)
