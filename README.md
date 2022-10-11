@@ -101,3 +101,6 @@
 - **800** [1730A. Planets](./solutions/1730A.cpp)
 - **1600** [1730B. Meeting on the Line](./solutions/1730B.cpp)
 - **1200** [1730C. Minimum Notation](./solutions/1730C.cpp)
+- **** [1736A. Make A Equal to B](./solutions/1736A.cpp)
+- **** [1736B. Playing with GCD](./solutions/1736B.cpp)
+- **** [1736C1. Good Subarrays (Easy Version)](./solutions/1736C1.cpp)
