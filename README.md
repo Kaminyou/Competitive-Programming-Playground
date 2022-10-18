@@ -112,3 +112,7 @@
 - **1100** [1741C. Minimize the Thickness](./solutions/1741C.cpp)
 - **1300** [1741D. Masha and a Beautiful Tree](./solutions/1741D.cpp)
 - **1600** [1741E. Sending a Sequence Over the Network](./solutions/1741E.cpp)
+- **800** [1743A. Password](./solutions/1743A.cpp)
+- **800** [1743B. Permutation Value](./solutions/1743B.cpp)
+- **1100** [1743C. Save the Magazines](./solutions/1743C.cpp)
+- **1700** [1743D. Problem with Random Tests](./solutions/1743D.cpp)
