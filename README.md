@@ -1,5 +1,6 @@
 # MyCodeforces
 
+- **1700** [1661C. Water the Trees](./solutions/1661C.cpp)
 - **800** [1676A. Lucky?](./solutions/1676A.cpp)
 - **800** [1676B. Equal Candies](./solutions/1676B.cpp)
 - **800** [1676C. Most Similar Words](./solutions/1676C.cpp)
