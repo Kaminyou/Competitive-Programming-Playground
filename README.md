@@ -118,3 +118,4 @@
 - **800** [1743B. Permutation Value](./solutions/1743B.cpp)
 - **1100** [1743C. Save the Magazines](./solutions/1743C.cpp)
 - **1700** [1743D. Problem with Random Tests](./solutions/1743D.cpp)
+- **1600** [1753B. Factorial Divisibility](./solutions/1753B.cpp)
