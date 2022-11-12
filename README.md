@@ -119,3 +119,10 @@
 - **1100** [1743C. Save the Magazines](./solutions/1743C.cpp)
 - **1700** [1743D. Problem with Random Tests](./solutions/1743D.cpp)
 - **1600** [1753B. Factorial Divisibility](./solutions/1753B.cpp)
+
+# Google Kick Start
+## 2022
+### Round K
+- [Running in Circles](./kick/2022_H/A.cpp)
+- [Magical Well Of Lilies](./kick/2022_H/B.cpp)
+- [Electricity](./kick/2022_H/C.cpp)
