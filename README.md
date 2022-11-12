@@ -1,5 +1,13 @@
-# MyCodeforces
+# Competitive Programming Playground
 
+## Google Kick Start
+### 2022
+#### Round K
+- [Running in Circles](./kick/2022_H/A.cpp)
+- [Magical Well Of Lilies](./kick/2022_H/B.cpp)
+- [Electricity](./kick/2022_H/C.cpp)
+
+## Codeforces
 - **1700** [1661C. Water the Trees](./codeforces/1661C.cpp)
 - **800** [1676A. Lucky?](./codeforces/1676A.cpp)
 - **800** [1676B. Equal Candies](./codeforces/1676B.cpp)
@@ -119,10 +127,3 @@
 - **1100** [1743C. Save the Magazines](./codeforces/1743C.cpp)
 - **1700** [1743D. Problem with Random Tests](./codeforces/1743D.cpp)
 - **1600** [1753B. Factorial Divisibility](./codeforces/1753B.cpp)
-
-# Google Kick Start
-## 2022
-### Round K
-- [Running in Circles](./kick/2022_H/A.cpp)
-- [Magical Well Of Lilies](./kick/2022_H/B.cpp)
-- [Electricity](./kick/2022_H/C.cpp)
