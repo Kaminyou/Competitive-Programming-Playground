@@ -126,4 +126,5 @@
 - **800** [1743B. Permutation Value](./codeforces/1743B.cpp)
 - **1100** [1743C. Save the Magazines](./codeforces/1743C.cpp)
 - **1700** [1743D. Problem with Random Tests](./codeforces/1743D.cpp)
+- **1600** [1748C. Zero-Sum Prefixes](./codeforces/1748C.cpp)
 - **1600** [1753B. Factorial Divisibility](./codeforces/1753B.cpp)
