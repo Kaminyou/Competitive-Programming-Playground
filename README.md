@@ -98,6 +98,7 @@
 - **800** [1714C. Minimum Varied Number](./codeforces/1714C.cpp)
 - **1600** [1714D. Color with Occurrences](./codeforces/1714D.cpp)
 - **1400** [1714E. Add Modulo 10](./codeforces/1714E.cpp)
+- **1700** [1715C. Monoblock](./codeforces/1715C.cpp)
 - **800** [1717A. Madoka and Strange Thoughts](./codeforces/1717A.cpp)
 - **800** [1719A. Chip Game](./codeforces/1719A.cpp)
 - **800** [1719B. Mathematical Circus](./codeforces/1719B.cpp)
